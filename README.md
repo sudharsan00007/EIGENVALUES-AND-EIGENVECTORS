@@ -33,6 +33,8 @@ print(f"Eigen values are {B} and Eigen Vectors are {C}")
 #RegisterNumber:212224040335
 
 ## Output:
+![image](https://github.com/user-attachments/assets/08e5a715-9d2a-408e-8290-aee9a50689ea)
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
